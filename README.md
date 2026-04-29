@@ -4,7 +4,7 @@
 
 ### About Me
 
-Computer Engineering Student, interested in backend development, deep learning, and systems programming.
+I am a Computer Engineering Student, interested in Backend Development, Deep Learning, and Systems Programming.
 
 ---
 
